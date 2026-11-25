@@ -1,5 +1,5 @@
 print("Hello GitHub!")
-print("This is my first repository.")
+print("This first repository.")
 n = int(input("Enter a number : "))
 print(n)
 a = 10
