@@ -4,4 +4,4 @@ n = int(input("Enter a number : "))
 print(n)
 a = 10
 b = 20
-print("The product of a and b is:", a * b)
+print("The addition of a and b is:", a + b)
